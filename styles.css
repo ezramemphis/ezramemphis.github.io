@@ -1,15 +1,22 @@
 body {
-    background-color: #603737;
+    background-color: #661515;
+    color: #FFFFFF;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
 }
 
-h1 {
-	background-color: #603737;
+blockquote {
+    font-style: italic;
+    color: #FFD700;
+    margin: 20px;
+    padding-left: 15px;
 }
 
-h2 {
-    background-color: #8C5E5E;
+li {
+    text-align: left;
+    color:aqua
 }
 
-p {
-    background-color: #A89090;
+a {
+    color: #00FFFF;
 }
