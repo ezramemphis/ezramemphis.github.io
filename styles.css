@@ -20,3 +20,8 @@ li {
 a {
     color: #00FFFF;
 }
+
+img {
+    border: 6px solid #2a2424;
+    border-radius: 200px;
+}
